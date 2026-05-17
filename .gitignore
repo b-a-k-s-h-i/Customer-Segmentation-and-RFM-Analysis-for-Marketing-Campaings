@@ -1,7 +1,3 @@
-Datasets/
 .ipynb_checkpoints/
 __pycache__/
-*.csv
-*.xlsx
-*.pbix
 *.zip
